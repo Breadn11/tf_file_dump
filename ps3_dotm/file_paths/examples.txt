@@ -1,8 +1,0 @@
-DLC:
-RPCS3\dev_hdd0\game\BLES01169\USRDIR\DLC\DLCMaps\PS3-TransEngine.ini
-
-CONSOLE TXT:
-RPCS3\dev_hdd0\game\BLES01169\USRDIR\UnrealEngine3\Binaries\Console.txt
-
-PATCH:
-RPCS3\dev_hdd0\game\BLES01169\USRDIR\Patch\TransGame\CookedPS3\UI_PartyLobby_m.xxx

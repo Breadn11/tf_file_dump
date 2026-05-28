@@ -1,2 +1,0 @@
-Files go into this directory:
-RPCS3\dev_hdd0\game\BLES01169\USRDIR\DLC\Config
