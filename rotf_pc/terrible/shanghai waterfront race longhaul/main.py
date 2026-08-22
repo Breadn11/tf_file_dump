@@ -2,7 +2,7 @@ import pymem
 import time
 import pyperclip
 
-WAIT_TIME = 0.25
+WAIT_TIME = 0.05
 printMode = False
 
 pm = pymem.Pymem('Transformers2.exe')
@@ -86,9 +86,11 @@ def doTeleportSequence():
 
     # now at 15/17
 
-    
+    teleportPlayer(*(-2.0798263549804688, 460.814697265625, 28.32649040222168))
+    teleportPlayer(*(18.366050720214844, 463.90386962890625, 37.18787384033203))
+    teleportPlayer(*(95.9083023071289, 462.2011413574219, 29.371871948242188))
 
-printMode = True
+#printMode = True
 
 if printMode == True:
     while True:
